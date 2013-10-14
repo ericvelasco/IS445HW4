@@ -34,7 +34,8 @@ aside {
     width: 227px;
     height: 200px;
     float: right;
-    display: inline;
+    position: relative;
+    bottom: 200px;
 }
 
 footer {
