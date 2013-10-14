@@ -31,8 +31,10 @@ section {
 aside {
     background-color: cyan;
     color: white;
-    max-width: 266px;
+    width: 227px;
     height: 200px;
+    float: right;
+    display: inline;
 }
 
 footer {
